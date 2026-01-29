@@ -1,10 +1,20 @@
 import java.util.List;
-
-public class ProcesadorUsuarios {
+/*
+Clase encarga de procesar cadenas de texto para clasificar usuarios
+dependiendo de su rol.
+*/
+public class ProcesadorUsuarios { 
     private static final int ROL_INVITADO = 2;
     private static final int ROL_ADMIN = 1;
 
+     /**
+     Procesa una lista de cadenas con formaro "nombre:rol" y devuelve un resumen clasificado.
+    * * @param usuarios lista de Strings con el formato "nombre:ID_ROL".
+    * @return una cadena formateada con los nombres de admins e invitados.
+    */
+
     public String procesarLista(List<String> usuarios) {
+
         String admins = "";
         String invitados = "";
 
@@ -14,8 +24,8 @@ public class ProcesadorUsuarios {
                 String nombre = parts[0];
                 int rol = Integer.parseInt(parts[1]);
 
-                if (rol == ROL_ADMIN) { // Admin
-                    admins = procesarInvitado(admins, nombre);
+                if (rol == ROL_ADMIN) { // AdminÑ
+                    admins = procesarAdmin(admins, nombre);
                 }
                 else if (rol == ROL_INVITADO) {                    
                      invitados = procesarInvitado(invitados, nombre);
