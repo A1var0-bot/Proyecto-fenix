@@ -42,7 +42,7 @@ public class ProcesadorUsuarios {
 
     private String procesarInvitado(String invitados, String nombre) {
         // Invitado
-        invitados = procesarAdmin(invitados, nombre);
+        invitados += nombre + ",";
         return invitados;
     }
 }
