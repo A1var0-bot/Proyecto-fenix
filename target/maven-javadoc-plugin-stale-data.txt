@@ -1,0 +1,47 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@argfile
+--no-fonts
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/usuar/OneDrive/Proyecto-Fenix/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/usuar/OneDrive/Proyecto-Fenix/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'proyecto-fenix 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'proyecto-fenix 1.0-SNAPSHOT API'
+'C:/Users/usuar/OneDrive/Proyecto-Fenix/src/main/java/ProcesadorUsuarios.java'
+C:\Users\usuar\OneDrive\Proyecto-Fenix\src\main\java\ProcesadorUsuarios.java = 1769704926491
+C:\Users\usuar\OneDrive\Proyecto-Fenix\src\main\java = 1769673930321
+C:\Users\usuar\OneDrive\Proyecto-Fenix\target\reports\apidocs\allclasses-index.html = 1769763382456
+C:\Users\usuar\OneDrive\Proyecto-Fenix\target\reports\apidocs\allpackages-index.html = 1769763382467
+C:\Users\usuar\OneDrive\Proyecto-Fenix\target\reports\apidocs\element-list = 1769763382241
+C:\Users\usuar\OneDrive\Proyecto-Fenix\target\reports\apidocs\help-doc.html = 1769763382588
+C:\Users\usuar\OneDrive\Proyecto-Fenix\target\reports\apidocs\index-all.html = 1769763382531
+C:\Users\usuar\OneDrive\Proyecto-Fenix\target\reports\apidocs\index.html = 1769763382557
+C:\Users\usuar\OneDrive\Proyecto-Fenix\target\reports\apidocs\member-search-index.js = 1769763382482
+C:\Users\usuar\OneDrive\Proyecto-Fenix\target\reports\apidocs\module-search-index.js = 1769763382471
+C:\Users\usuar\OneDrive\Proyecto-Fenix\target\reports\apidocs\overview-tree.html = 1769763382346
+C:\Users\usuar\OneDrive\Proyecto-Fenix\target\reports\apidocs\package-search-index.js = 1769763382475
+C:\Users\usuar\OneDrive\Proyecto-Fenix\target\reports\apidocs\package-summary.html = 1769763382267
+C:\Users\usuar\OneDrive\Proyecto-Fenix\target\reports\apidocs\package-tree.html = 1769763382291
+C:\Users\usuar\OneDrive\Proyecto-Fenix\target\reports\apidocs\package-use.html = 1769763382333
+C:\Users\usuar\OneDrive\Proyecto-Fenix\target\reports\apidocs\ProcesadorUsuarios.html = 1769763382232
+C:\Users\usuar\OneDrive\Proyecto-Fenix\target\reports\apidocs\search.html = 1769763382547
+C:\Users\usuar\OneDrive\Proyecto-Fenix\target\reports\apidocs\tag-search-index.js = 1769763382490
+C:\Users\usuar\OneDrive\Proyecto-Fenix\target\reports\apidocs\type-search-index.js = 1769763382479
